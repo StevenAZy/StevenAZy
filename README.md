@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StevenAZy
 - 👀 I’m interested in coding, movie, badminton
-- 🌱 I’m currently learning Biomedical Imaging Processing
+- 🌱 I’m currently learning Biomedical Imaging Processing and Bioinformatics
 - 💞️ I’m looking to collaborate on Deep Learning, Python, Pytorch
 - 📫 How to reach me: stevenazy@outlook.com
 
